@@ -1,5 +1,5 @@
 from PySide2.QtWidgets import QApplication, QMainWindow
-from ext.modulo_inicial import ModuloInicial
+from lib.modulo_inicial import ModuloInicial
 import sys
 
 
